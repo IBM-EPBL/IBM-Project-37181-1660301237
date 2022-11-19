@@ -1,5 +1,5 @@
 ## IBM-Project-37181-1660301237
-## Global Sales Data Analytics
+### Global Sales Data Analytics
 Shopping online is currently the need of the hour. Because of this COVID, it's not easy to walk in a store randomly and buy anything you want. Here's the dashboard from which we've tried to draw some conclusions from the visualizations.
 <hr>
 <h6>Video Demo: <h6>
